@@ -1,0 +1,15 @@
+C:\GeekBrain\chomework\taskdop\bin\Debug\net6.0\taskdop.exe
+C:\GeekBrain\chomework\taskdop\bin\Debug\net6.0\taskdop.deps.json
+C:\GeekBrain\chomework\taskdop\bin\Debug\net6.0\taskdop.runtimeconfig.json
+C:\GeekBrain\chomework\taskdop\bin\Debug\net6.0\taskdop.dll
+C:\GeekBrain\chomework\taskdop\bin\Debug\net6.0\taskdop.pdb
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\taskdop.csproj.AssemblyReference.cache
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\taskdop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\taskdop.AssemblyInfoInputs.cache
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\taskdop.AssemblyInfo.cs
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\taskdop.csproj.CoreCompileInputs.cache
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\taskdop.dll
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\refint\taskdop.dll
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\taskdop.pdb
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\taskdop.genruntimeconfig.cache
+C:\GeekBrain\chomework\taskdop\obj\Debug\net6.0\ref\taskdop.dll
